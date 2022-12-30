@@ -6,4 +6,4 @@ Hello 👋
 
 💻 - I'm currently working at a company as a tester using Java - Selenium.
 
-🎮 - In my spare time, I'm focused on learning about the GameMaker tool.
+🎮 - In my spare time, I'm focused on learning about the GameMaker Engine.
