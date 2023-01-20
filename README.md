@@ -1,4 +1,6 @@
-Hello 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+👋;Welcome+to+my+github+:D)](https://git.io/typing-svg)
+
+
 
 🎓 - My name is Danilo, and I have a degree in systems analysis and development.
 
