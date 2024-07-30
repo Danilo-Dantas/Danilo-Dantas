@@ -4,8 +4,6 @@
 
 🎓 - I have a degree in systems analysis and development.
 
-☕ - For now, I'm focused on learning Java Spring boot and Thymeleaf.
+☕ - For now, I'm focused on learning C# and ASP.NET Core.
 
-💻 - I currently work at a company as a Spring boot developer.
-
-🎮 - In my spare time, I'm focused on learning about the GameMaker Engine.
+💻 - I currently work at a company as a Full Stack Developer.
